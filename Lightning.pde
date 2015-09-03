@@ -46,5 +46,5 @@ void mousePressed()
  
 void keyPressed()
 {
-  clear();
+  background(0);
 }
